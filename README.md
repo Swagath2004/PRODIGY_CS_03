@@ -1,12 +1,10 @@
-My third task as intern in PRODIGY INFOTECH.
+# Password Complexity Checker
 
-**Password Complexity Checker**
-
-**Overview:**
+## Overview:
 
 This project is a Python-based tool developed during my internship at Prodigy InfoTech. The tool assesses the strength of a password based on various criteria, providing users with feedback on the password's strength.
 
-**Features:**
+### Features:
 
 *1. Password Length*
 * Description: Checks if the password meets the defined length criteria.
@@ -28,7 +26,7 @@ This project is a Python-based tool developed during my internship at Prodigy In
 * Description: Checks if the password includes special characters.
 * Criteria: At least one special character from the set @$!%*?& must be present.
   
-**Output:**
+### Output:
 
 The tool evaluates the password based on the above criteria and generates a score. The strength of the password is displayed based on the score:
 
